@@ -10,7 +10,6 @@ document.body.appendChild(div);
 document.getElementById("title-wrapper").style.textAlign = "center";
 document.getElementById("title-wrapper").style.top = "50%";
 document.getElementById("title-wrapper").style.fontFamily = "impact";
-document.getElementById("title-wrapper").style.textTransform = "uppercase";
 
 var h1 = document.createElement("h1");
 h1.innerText = "Work under progress...";
